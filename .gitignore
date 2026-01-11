@@ -4,3 +4,5 @@ obj/
 packages/
 *.user
 *.suo
+config.bat
+node_modules
